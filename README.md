@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on open source MERN stack projects
 - 💬 Ask me about ReactJs, NodeJs, 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "You read so far, so you may want to have a quick chat. That's why i'm attaching social handles to get connected 😄"
 
 ### Connect with me:
 <!-- Actual text -->
