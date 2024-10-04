@@ -1,12 +1,6 @@
 # Hello 👋 I'm Abhishek
 
-### Full Stack Web Developer || Student || Enthusiastic Learner
-
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning Data Structures and Algoriths && Web related technologies
-- 👯 I’m looking to collaborate on open source MERN stack projects
-- 💬 Ask me about ReactJs, NodeJs, 
-- 😄 Pronouns: He/Him
+### Software Engineer || Enthusiastic Learner
 
 ### Connect with me:
 <!-- Actual text -->
